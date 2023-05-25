@@ -14,7 +14,7 @@ differentiating the current time from past and future events.
 ## Installation
 
 You can access the application through any web browser by visiting the following address:
-
+https://paolacaceresoma.github.io/daily-planner/
 
 
 ## License
